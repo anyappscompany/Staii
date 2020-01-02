@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\VorovatStaii\VorovatStaii\bin\Debug\VorovatStaii.exe.config
+F:\Visual Studio\Projects\VorovatStaii\VorovatStaii\bin\Debug\VorovatStaii.exe
+F:\Visual Studio\Projects\VorovatStaii\VorovatStaii\bin\Debug\VorovatStaii.pdb
+F:\Visual Studio\Projects\VorovatStaii\VorovatStaii\obj\Debug\VorovatStaii.exe
+F:\Visual Studio\Projects\VorovatStaii\VorovatStaii\obj\Debug\VorovatStaii.pdb
+F:\Visual Studio\Projects\VorovatStaii\VorovatStaii\obj\Debug\VorovatStaii.csprojResolveAssemblyReference.cache
